@@ -12,7 +12,7 @@ if ali ==5:
     print ("number is 5")        
 else :
     print("ali is here")
-cd
+
 
 
 
