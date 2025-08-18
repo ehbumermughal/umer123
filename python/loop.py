@@ -5,13 +5,13 @@
 # for abc in fruits:
 #     print(abc) 
 
-for ali in range( 1 ,10): 
-    print(ali)
+# for ali in range( 1 ,10): 
+#     print(ali)
 
-if ali ==5:
-    print ("number is 5")        
-else :
-    print("ali is here")
+# if ali ==5:
+#     print ("number is 5")        
+# else :
+#     print("ali is here")
 
 
 

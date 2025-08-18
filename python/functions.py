@@ -29,20 +29,20 @@
 
 #list loop 
 # def get_list ():
-numbers = [ 1,2,"nothing",4,5,"i am here",7,8,9]
+# numbers = [ 1,2,"nothing",4,5,"i am here",7,8,9]
 
-# number =get_list()
+# # number =get_list()
 
-for number in numbers:
-    print(number)
-    if number == 5:
-        print(5)
-
-
+# for number in numbers:
+#     print(number)
+#     if number == 5:
+#         print(5)
 
 
 
-        
+
+
+
 
 
 
